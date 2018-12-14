@@ -1,0 +1,10 @@
+*.log
+*.aux
+*.pdf
+*main.synctex(busy)
+*.gz
+*(busy)
+*synctex
+*synctex*
+*.mp4
+*.MP4
