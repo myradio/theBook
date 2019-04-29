@@ -1,0 +1,46 @@
+%------------------------------------------------------------------------------------------------------------------
+%------------------------------------------------------------------------------------------------------------------
+%----------------TEMP2---------------------------------------------------------------------------------------------
+\clearpage
+%  Some content
+\tikz[remember picture,overlay] \node[opacity=0.5,inner sep=0pt] at (current page.center){\includegraphics[width=\paperwidth]{china}};
+% \clearpageee
+% text
+
+\begin{tikzpicture}[remember picture, overlay]
+  \node [anchor=north west, inner sep=40pt]  at (current page.north west)
+     {\includegraphics[angle=90,origin=c,height=6cm]{fullBody}};
+\end{tikzpicture}
+
+\begin{tikzpicture}[remember picture, overlay]
+  \node [anchor=south west, inner sep=40pt]  at (current page.south west)
+     {\includegraphics[angle=90,origin=c,height=6cm]{portrait}};
+\end{tikzpicture}
+
+Overview: Best time to visit Japan
+Japan’s climate can be distilled down into four distinct seasons (spring, summer, autumn and winter), and each is culturally important in Japan. Late spring (March to May) and late autumn (September to November) are generally the best times to visit Japan, when there is little rainfall, skies are clear, and temperatures are mild. What’s more, the delicate cherry blossom of spring and vivid hues of autumn leaves are visually stunning.
+
+The colder months, December to February, are less appealing to most visitors which can make traveling at these times cheaper. As well as being less crowded and costing less, many of Japan’s highlights are even better in the winter months.
+%------------------------------------------------------------------------------------------------------------------
+%------------------------------------------------------------------------------------------------------------------
+%----------------TEMP1--------------------------------------------------------------------------
+\clearpage
+%  Some content
+\tikz[remember picture,overlay] \node[opacity=0.5,inner sep=0pt] at (current page.center){\includegraphics[width=\paperwidth]{china}};
+% \clearpageee
+% text
+
+\begin{tikzpicture}[remember picture, overlay]
+  \node [anchor=north east, inner sep=40pt]  at (current page.north east)
+     {\includegraphics[angle=0,origin=c,height=6cm]{fullBody}};
+\end{tikzpicture}
+
+\begin{tikzpicture}[remember picture, overlay]
+  \node [anchor=south east, inner sep=40pt]  at (current page.south east)
+     {\includegraphics[angle=0,origin=c,height=6cm]{portrait}};
+\end{tikzpicture}
+% \hspace{400 pt}
+Overview: Best time to visit Japan
+Japan’s climate can be distilled down into four distinct seasons (spring, summer, autumn and winter), and each is culturally important in Japan. Late spring (March to May) and late autumn (September to November) are generally the best times to visit Japan, when there is little rainfall, skies are clear, and temperatures are mild. What’s more, the delicate cherry blossom of spring and vivid hues of autumn leaves are visually stunning.
+
+The colder months, December to February, are less appealing to most visitors which can make traveling at these times cheaper. As well as being less crowded and costing less, many of Japan’s highlights are even better in the winter months.

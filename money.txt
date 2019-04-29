@@ -1,0 +1,16 @@
+cash		40
+bank	
+Mastrigt	5
+rok		14
+jin		15
+nelson		30
+bach		5
+alice 		15
+fede		40
+dirk		5
+cris		40
+marc		20
+	
+
+
+
